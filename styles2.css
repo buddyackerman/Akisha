@@ -1,0 +1,14 @@
+.body {
+  background: linear-gradient(90deg, #4e54c8, #8f94fb);
+  color: white;
+  height: 100vh;
+}
+
+.header {
+  height: 100px;
+}
+
+.navbar-header {
+  font: Karla;
+  font-size: 14px;;
+}
