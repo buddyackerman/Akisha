@@ -26,13 +26,13 @@ body {
 }
 
 .main-container {
-  visibility: hidden;
   display: flex;
   flex-direction: column;
   height: calc(100% - 120px);
 }
 
 .main-content {
+  visibility: hidden;
   flex-grow: 1;
   padding-top: 30px;
 }
