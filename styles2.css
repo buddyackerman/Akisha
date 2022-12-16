@@ -70,8 +70,14 @@ body {
   width: 70%;
 }
 
-p {
+.comment p {
   margin-bottom: 15px;
+}
+
+.comment p:only-child {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a {
