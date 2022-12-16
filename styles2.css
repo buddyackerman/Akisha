@@ -33,7 +33,7 @@ body {
 }
 
 .main-content {
-  /*visibility: hidden;*/
+  visibility: hidden;
   flex-grow: 1;
   padding-top: 30px;
   overflow-y: auto;
