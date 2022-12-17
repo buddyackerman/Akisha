@@ -31,9 +31,15 @@ body {
   flex-direction: column;
   height: calc(100% - 120px);
 }
-
-.main-content {
+.carousel { 
   visibility: hidden;
+}
+
+.banner {
+  /*visibility: hidden;*/
+  width: 100vw;
+}
+.main-content {
   flex-grow: 1;
   padding-top: 30px;
   overflow-y: auto;
