@@ -32,7 +32,7 @@ body {
   height: calc(100% - 120px);
 }
 .carousel { 
-  visibility: hidden;
+  display: none;
 }
 
 .banner {
