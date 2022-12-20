@@ -33,12 +33,13 @@ body {
   flex-direction: column;
   height: calc(100% - 120px);
 }
+
 .carousel { 
-  display: none;
+  /*display: none;*/
 }
 
 .banner {
-  /*visibility: hidden;*/
+  display: none;
   width: 85vw;
   margin-left: auto;
   margin-right: auto;
