@@ -99,3 +99,6 @@ a {
   color: white
 }
 
+.noshow {
+  display: none;
+}
