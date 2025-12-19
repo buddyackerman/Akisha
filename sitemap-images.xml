@@ -3,6 +3,7 @@
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.akisha-petties.com/index.html</loc>
+    <image:image>
       <image:loc>https://www.akisha-petties.com/images/first-photo.jpeg</image:loc>
     </image:image>
     <image:image>
